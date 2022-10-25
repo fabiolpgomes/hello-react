@@ -2,7 +2,6 @@
 
 This project was developed in React and JSX. Created a React app using the Create React App package.
 
-In this project I created a Landing Page (with some styles 🌼).
 
 # Getting Started with Create React App
 
