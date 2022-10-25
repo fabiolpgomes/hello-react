@@ -1,6 +1,8 @@
 import './App.css';
 import "./assets/styles/styles.css";
 import Header from "./components/Header";
+import HelloText from "./components/HelloText";
+
 
 
 
