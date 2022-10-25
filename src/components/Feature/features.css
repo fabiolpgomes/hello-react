@@ -1,0 +1,21 @@
+.content-container {
+  margin-top: 128px;
+  color: white;
+  width: 25%;
+}
+
+.content-h1 {
+  font-weight: bolder;
+}
+
+.content-p {
+  font-weight: lighter;
+}
+
+.feature1 {
+  font-size: large;
+}
+
+.feature1 P {
+  font-size: 20px;
+}

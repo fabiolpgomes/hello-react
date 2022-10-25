@@ -1,12 +1,11 @@
+import './header.css';
 import Logo from "../../images/Logo React.png";
-import Menu from "../../images/hamburger.png";
+import Menu from "../../images/menu-top-xs.png";
 
 // Component from Header Top
 function Header() {
-  console.log();
-
-  return (
-    <header className="header">
+    return (
+    <header className="nav-container">
       <img src={Logo} alt="React Logo" />
       <img src={Menu} alt="Menu Logo" />
     </header>
@@ -14,3 +13,5 @@ function Header() {
 }
 
 export default Header;
+
+

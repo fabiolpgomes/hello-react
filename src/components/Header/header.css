@@ -1,0 +1,9 @@
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-container img {
+  width: 60px;
+}
