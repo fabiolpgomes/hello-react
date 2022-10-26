@@ -5,7 +5,7 @@ This project was developed in React and JSX. Created a React app using the Creat
 ### View
 
 Landing Page
-<code><img height="" src="https://imgur.com/KR7z5Sx"></code>
+<code><img height="" src="https://i.imgur.com/KR7z5Sx.png"></code>
 
 
 ____________________________________________________________________________________________________________
