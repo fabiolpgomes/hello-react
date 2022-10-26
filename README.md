@@ -1,13 +1,20 @@
-### Landing Page with React
+## Landing Page with React
 
 This project was developed in React and JSX. Created a React app using the Create React App package.
 
+### View
 
-# Getting Started with Create React App
+Landing Page
+<code><img height="" src="https://imgur.com/KR7z5Sx"></code>
+
+
+____________________________________________________________________________________________________________
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
