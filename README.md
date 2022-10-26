@@ -2,7 +2,7 @@
 
 This project was developed in React and JSX. Created a React app using the Create React App package.
 
-![Screen_Landing_Page](<[Imgur](https://imgur.com/KR7z5Sx)>)
+![Screen_Landing_Page](https://imgur.com/KR7z5Sx)
 
 # Getting Started with Create React App
 
