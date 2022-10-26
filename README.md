@@ -2,11 +2,7 @@
 
 This project was developed in React and JSX. Created a React app using the Create React App package.
 
-Landing Page with React
-
-<code><img height="" src="https://imgur.com/KR7z5Sx"></code>
-
-
+![Screen_Landing_Page](<[Imgur](https://imgur.com/KR7z5Sx)>)
 
 # Getting Started with Create React App
 
