@@ -3,8 +3,8 @@ import "./button.css";
 function Button() {
   return (
     <>
-      <a href="http://reactjs.org/">Awesome!</a>
-      <button>Awesome!</button>
+      <a className="button" href="http://reactjs.org/">Awesome!</a>
+      
     </>
   );
 }
